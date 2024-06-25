@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/podcast_ml_cover.jpg"
+    src="./assets/Podcast_ML_Cover.jpg"
     width="300"
 />
 </p>
@@ -10,7 +10,7 @@
 </p>
 
 <div align="center">
-    <audio src="output/podcast_machine_learning.mp3" controls title="Podcast Machine Learning"></audio>
+    <audio src="output/Podcast_Machine_Learning.MP3" controls title="Podcast Machine Learning"></audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
