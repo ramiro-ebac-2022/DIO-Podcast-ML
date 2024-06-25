@@ -67,7 +67,7 @@ Foram criados os seguintes prompts no ChatGpt para gerar o conteúdo do podcast.
     </a>
     &nbsp;|&nbsp;
     <a 
-        href="www.linkedin.com/in/ramiro-arce">
+        href="https://www.linkedin.com/in/ramiro-arce/">
         LinkedIn
     </a>
     &nbsp;|&nbsp;
