@@ -11,6 +11,8 @@
 
 <div align="center">
     <audio src="output/Podcast_Machine_Learning.MP3" controls title="Podcast Machine Learning"></audio>
+    <br>
+    <a href="https://youtu.be/UmpF2nnpw9g">
 </div>
 
 # Projeto Podcast Gerado por I.A.s
