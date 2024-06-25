@@ -12,7 +12,7 @@
 <div align="center">
     <audio src="output/Podcast_Machine_Learning.MP3" controls title="Podcast Machine Learning"></audio>
     <br>
-    <a href="https://youtu.be/UmpF2nnpw9g">
+    <a href="https://youtu.be/UmpF2nnpw9g">Escutar no Youtube </a>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
